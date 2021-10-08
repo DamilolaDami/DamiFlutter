@@ -1,9 +1,17 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=DamiFlutter) -->
-<h1 align='center'>Hey Fellow Developer 👋🏾</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Damilola....;Welcome+To+My+Github+Profile!&center=true&size=30&color=yellow">
+  </a>
+</h1>
+
 
 <p align='center'>I am a Software Engineer focused on Flutter💙 and Python💛. </p>
 
 - 🌱 I’m currently learning ... **Machine Learning And Data Science**
+- 📚 Also currently learning Quantum computing on weekends
+- 👷🏽‍♂️ Setting up my tech blog  **will be ready soon...**
+- 👯 I’m looking to collaborate with other content creators
 
 <h1 align='center'>My Tech Stack🏾</h1>
 
@@ -21,6 +29,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+<h1 align='center'>How To reach me🏾</h1>
+
+[![Twitter Badge](https://img.shields.io/badge/-@MortyWentMia-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MortyWentMia)](https://twitter.com/MortyWentMia)
+[![Gmail Badge](https://img.shields.io/badge/-kabirabdul08091@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kabirabdul08091@gmail.com)](mailtokabirabdul08091@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamiFlutter&hide=contribsshow_icons=true&theme=vue-dark&langs_count=8&layout=compact)
 
